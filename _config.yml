@@ -62,7 +62,7 @@ content:
         # link_text: Project Website
         
        additional_links:
-        - title: 
+        - title: CV
           icon: <a href="{{ site.baseurl }}/index.html"><i class='fa fa-file-text'></i>CV</a>
           url: https://heejaemon123.github.io/resume/
 
