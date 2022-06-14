@@ -77,14 +77,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: <i class='fa fa-file-text'> &nbsp; CV</i> github.io/resume/
+        title: Curriculum Vitae (CV)
+        link: <i class='fa fa-file-text'></i> github.io/resume/
         # link_text: Project Website
         
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: <i class='fa fa-file-text'>CV</i>
-            url: https://heejaemon123.github.io/resume/
+        #additional_links:
+         # - title: sproogen/modern-resume-theme
+          #  icon: <i class='fa fa-file-text'>CV</i>
+           # url: https://heejaemon123.github.io/resume/
             
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark>
