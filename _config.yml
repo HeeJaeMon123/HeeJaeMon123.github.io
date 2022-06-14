@@ -62,7 +62,14 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: <li><a href="{{ site.baseurl }}/index.html"><i class="fa fa-clipboard-user"></i> CV</a></li>
+            icon: <li><a href="{{ site.baseurl }}/index.html"><i class="fab fa-solid fa-clipboard-user"></i> CV</a></li>
+            
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+            
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: <li><i class="fa-solid fa-0"></i> CV</a></li>
             
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
