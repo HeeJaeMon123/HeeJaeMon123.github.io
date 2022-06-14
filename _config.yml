@@ -32,7 +32,7 @@ instagram_username: jameswgrant
 # Additional icon links
 additional_links:
 - title: icelab.re.kr
-  icon: <i class="fas fa-camera"></i>
+  icon: <i class="fa-solid fa-clipboard-user fa-2x"></i>
   url: https://icelab.re.kr/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
