@@ -77,8 +77,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: <a href="https://heejaemon123.github.io/resume/"><i class='fa fa-file-pdf-o'></i> Curriculum Vitae (CV)</a>
-        link:  github.io/resume/
+        title: <a href="https://heejaemon123.github.io/resume/" target="_blank"><i class='fa fa-file-pdf-o'></i> Curriculum Vitae (CV)</a>
+        #link:  github.io/resume/
         # link_text: Project Website
         
         #additional_links:
