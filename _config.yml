@@ -82,7 +82,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: <i class="fa-solid fa-user"></i>
+            icon: <i class="fa-solid fa-user">cc</i>
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
