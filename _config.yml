@@ -58,15 +58,15 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        icon: <a href="{{ site.baseurl }}/index.html"><i class='fa fa-file-text'></i>CV</a>
+        link: https://heejaemon123.github.io/resume/
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: <a href="{{ site.baseurl }}/index.html"><i class='fa fa-file-text'></i> CV</a>
-            url: https://heejaemon123.github.io/resume/
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        
+       # additional_links:
+        #  - title: sproogen/modern-resume-theme
+         #   icon: <a href="{{ site.baseurl }}/index.html"><i class='fa fa-file-text'></i>CV</a>
+          #  url: https://heejaemon123.github.io/resume/
+
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -77,12 +77,13 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/HeeJaeMon123
         # link_text: Project Website
+        
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: <li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
-            url: github.com/sproogen/modern-resume-theme
+          - title: sproogen/modern-resume-theme
+            icon: <a href="{{ site.baseurl }}/index.html"><i class='fa fa-file-text'></i>CV</a>
+            url: https://heejaemon123.github.io/resume/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
