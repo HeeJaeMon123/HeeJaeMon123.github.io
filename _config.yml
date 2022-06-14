@@ -32,7 +32,7 @@ orcid_username: 0000-0002-6144-4831
 # Additional icon links
 additional_links:
 - title: icelab.re.kr
-  icon: 0
+  icon: favicon.ico
   url: https://icelab.re.kr/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -78,7 +78,7 @@ content:
     content:
       - layout: top-middle
         title: Curriculum Vitae (CV)
-        link: <i class='fa fa-file-text'></i> github.io/resume/
+        link: <i class='fa fa-file-pdf-o'></i> github.io/resume/
         # link_text: Project Website
         
         #additional_links:
