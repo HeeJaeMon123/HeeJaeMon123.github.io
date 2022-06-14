@@ -78,7 +78,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: <i class='fa fa-file-text'>CV</i>github.com/HeeJaeMon123
+        link: <i class='fa fa-file-text'>CV</i> github.com/HeeJaeMon123
         # link_text: Project Website
         
         additional_links:
