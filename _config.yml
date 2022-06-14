@@ -78,14 +78,17 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/HeeJaeMon123
+        link: <i class='fa fa-file-text'>CV</i>github.com/HeeJaeMon123
         # link_text: Project Website
         
         additional_links:
           - title: sproogen/modern-resume-theme
             icon: <i class='fa fa-file-text'>CV</i>
             url: https://heejaemon123.github.io/resume/
-
+            
+    description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark>
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
