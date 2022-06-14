@@ -58,14 +58,13 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        icon: <a href="{{ site.baseurl }}/index.html"><i class='fa fa-file-text'></i>CV</a>
         link: https://heejaemon123.github.io/resume/
         # link_text: Project Website
         
-       # additional_links:
-        #  - title: sproogen/modern-resume-theme
-         #   icon: <a href="{{ site.baseurl }}/index.html"><i class='fa fa-file-text'></i>CV</a>
-          #  url: https://heejaemon123.github.io/resume/
+       additional_links:
+        - title: 
+          icon: <a href="{{ site.baseurl }}/index.html"><i class='fa fa-file-text'></i>CV</a>
+          url: https://heejaemon123.github.io/resume/
 
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
