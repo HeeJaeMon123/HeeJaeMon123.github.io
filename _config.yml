@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Project Repository
         link: github.com/HeeJaeMon123
         # link_text: Project Website
         
