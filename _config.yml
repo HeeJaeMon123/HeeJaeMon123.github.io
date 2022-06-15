@@ -62,12 +62,10 @@ content:
         # link_text: Project Website
         
         additional_links:
-          - title: sproogen
-            icon: <i class='fa fa-file-text'></i>
-            url: https://heejaemon123.github.io/resume/
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          - title:  Github page for project 
+            icon: fab fa-github
+            url: https://github.com/HeeJaeMon123?tab=repositories 
+            
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
