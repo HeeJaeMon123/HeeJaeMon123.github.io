@@ -48,9 +48,7 @@ additional_links:
 # about_title: About Me My advisor is Prof. Laihyuk Park.
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I received the B.S. degree at the Seoul National University of Science and Technology, SEOULTECH in 2022 and I am currently pursuing M.S. degree at SEOULTECH.
-  <br>
-  <a href="https://heejaemon123.github.io/resume/" target="_blank"><i class='fa fa-file-pdf-o'></i> Curriculum Vitae (CV)</a>
+  ss
 
 content:
   - title: INTERESTS # Title for the section
