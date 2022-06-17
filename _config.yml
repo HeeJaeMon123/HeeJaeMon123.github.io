@@ -66,10 +66,6 @@ content:
           #  icon: fab fa-github
            # url: https://github.com/HeeJaeMon123?tab=repositories 
             
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark>
           
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
