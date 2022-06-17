@@ -53,12 +53,12 @@ about_content: | # this will include new lines to allow paragraphs
   <a href="https://heejaemon123.github.io/resume/" target="_blank"><i class='fa fa-file-pdf-o'></i> Curriculum Vitae (CV)</a>
 
 content:
-  - title: Projects # Title for the section
+  - title: INTERESTS # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Project Repository
-        link: github.com/HeeJaeMon123
+        title: Next-generation Network (5G, 6G), Intelligent Reflecting Surface (IRS), Multicast, Machine Learning, and Deep Learning.
+        # link: github.com/HeeJaeMon123
         # link_text: Project Website
         
         additional_links:
