@@ -45,14 +45,30 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: About Me My advisor is Prof. Laihyuk Park.
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I received the B.S. degree at the Seoul National University of Science and Technology, SEOULTECH in 2022 and I am currently pursuing M.S. degree at SEOULTECH.
   <br>
   <a href="https://heejaemon123.github.io/resume/" target="_blank"><i class='fa fa-file-pdf-o'></i> Curriculum Vitae (CV)</a>
 
 content:
+  - title: INTERESTS # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: top-middle
+          title: <a href="https://heejaemon123.github.io/resume/" target="_blank"><i class='fa fa-file-pdf-o'></i> Curriculum Vitae (CV)</a>
+          #link:  github.io/resume/
+          # link_text: Project Website
+          
+          #additional_links:
+          # - title: sproogen/modern-resume-theme
+            #  icon: <i class='fa fa-file-text'>CV</i>
+            # url: https://heejaemon123.github.io/resume/
+              
+          description: | # this will include new lines to allow paragraphs
+            I started this project as a way if learning <mark>React</mark>
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -70,24 +86,8 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark>
-          
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: <a href="https://heejaemon123.github.io/resume/" target="_blank"><i class='fa fa-file-pdf-o'></i> Curriculum Vitae (CV)</a>
-        #link:  github.io/resume/
-        # link_text: Project Website
         
-        #additional_links:
-         # - title: sproogen/modern-resume-theme
-          #  icon: <i class='fa fa-file-text'>CV</i>
-           # url: https://heejaemon123.github.io/resume/
-            
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark>
-          
-
+        
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
