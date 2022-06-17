@@ -54,10 +54,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: INTERESTS # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: top-middle
-          title: <a href="https://heejaemon123.github.io/resume/" target="_blank"><i class='fa fa-file-pdf-o'></i> Curriculum Vitae (CV)</a>
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: <a href="https://heejaemon123.github.io/resume/" target="_blank"><i class='fa fa-file-pdf-o'></i> Curriculum Vitae (CV)</a>
           #link:  github.io/resume/
           # link_text: Project Website
           
@@ -66,7 +66,7 @@ content:
             #  icon: <i class='fa fa-file-text'>CV</i>
             # url: https://heejaemon123.github.io/resume/
               
-          description: | # this will include new lines to allow paragraphs
+         description: | # this will include new lines to allow paragraphs
             I started this project as a way if learning <mark>React</mark>
 
   - title: Projects # Title for the section
