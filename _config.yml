@@ -61,10 +61,10 @@ content:
         # link: github.com/HeeJaeMon123
         # link_text: Project Website
         
-        additional_links:
-          - title:  Github page for project 
-            icon: fab fa-github
-            url: https://github.com/HeeJaeMon123?tab=repositories 
+        #additional_links:
+         # - title:  Github page for project 
+          #  icon: fab fa-github
+           # url: https://github.com/HeeJaeMon123?tab=repositories 
             
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
