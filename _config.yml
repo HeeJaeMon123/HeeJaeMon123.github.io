@@ -100,11 +100,9 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: text
-        content: |
-          - B.S., Feb. 2022, Computer Science and Engineering, Seoul National University of Science and Technology (Summa Cum Laude)
+    layout: text # Type of content section (list/text)
+    content: |
+      - B.S., Feb. 2022, Computer Science and Engineering, Seoul National University of Science and Technology (Summa Cum Laude)
 
 
   - title: Teaching Assistant
