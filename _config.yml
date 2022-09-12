@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Next-generation Network (5G, 6G), Intelligent Reflecting Surface (IRS), Multicast, Machine Learning, and Deep Learning.
+        title: Next-generation Network (5G, 6G), Reconfigurable Intelligent Surface (RIS), Multicast, Machine Learning, and Deep Learning.
         # link: github.com/HeeJaeMon123
         # link_text: Project Website
         
